@@ -1,5 +1,5 @@
-## Hi there 👋
-###私はさいきょうぷろぐらまーですぅ
+## わたしはさいきょうぷろぐらまーですぅ
+
 <!--
 **gao0325ts/gao0325ts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
