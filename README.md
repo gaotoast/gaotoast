@@ -1,3 +1,3 @@
 # Now Loading...
 
-![test](./metrics.classic.svg)
+![test](./metrics.plugin.skyline.svg)
