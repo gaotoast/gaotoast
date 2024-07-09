@@ -52,7 +52,7 @@ jobs:
           plugin_habits_charts: yes
           config_timezone: Japan
 
-       - name: GitHub City
+      - name: GitHub City
         uses: lowlighter/metrics@latest
         with:
           filename: metrics.plugin.skyline.city.svg
