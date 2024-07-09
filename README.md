@@ -1,3 +1,3 @@
 # Now Loading...
 
-![test](./metrics.plugin.skyline.svg)
+![test](./metrics.plugin.achievements.compact.svg)
