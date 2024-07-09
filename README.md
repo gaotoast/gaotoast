@@ -1,1 +1,3 @@
 # Now Loading...
+
+![test](./metrics.classic.svg)
