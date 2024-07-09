@@ -1,3 +1,3 @@
 # Now Loading...
 
-![test](./metrics.plugin.achievements.compact.svg)
+![achievements](./metrics.plugin.achievements.compact.svg)
