@@ -53,7 +53,7 @@ jobs:
               "wait": 4,
               "hide": ".github-corner, .footer-link, .buttons-options, .mobile-rotate, .display-info span:first-child"
             }
-
+    
       - name: Indepth analysis
         uses: lowlighter/metrics@latest
         with:
@@ -68,10 +68,3 @@ jobs:
           plugin_languages_details: lines, bytes-size
           plugin_languages_limit: 4
           plugin_languages_analysis_timeout: 15
-
-            
-    
-    
-    
-    
-    
