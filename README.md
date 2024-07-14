@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=8DBFCD&random=false&width=435&lines=Now+Loading+.+.+.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Lexend&size=40&pause=1000&color=07817A&vCenter=true&random=false&width=435&lines=Now+Loading+.+.+.)](https://git.io/typing-svg)
 ##
 
 [![stakada's 42 stats](https://badge42.coday.fr/api/v2/clykl1nmm4378701p4a2d4uqb9/stats?cursusId=9&coalitionId=62)](https://github.com/Coday-meric/badge42)
