@@ -1,12 +1,50 @@
-[![](https://readme-typing-svg.demolab.com?font=Lexend&size=40&pause=1000&color=07817A&vCenter=true&random=false&width=435&lines=Now+Loading+.+.+.)](https://git.io/typing-svg)
+<!-- <h1 align="center">Hi there! 👋 I'm Shorei Takada</h1> -->
 
-![](profile-3d-contrib/profile-night-rainbow.svg)
+<div align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Lexend&size=40&duration=2000&pause=1000&color=09AEA5&center=true&vCenter=true&multiline=true&random=false&width=430&height=142&lines=Hi+there!;I'm+Shorei+Takada." alt="Typing SVG" /></a>
+</div>
 
-![](metrics.plugin.languages.details.svg)
-![](metrics.plugin.achievements.svg)
+## About Me
 
-[![](https://badge42.coday.fr/api/v2/clykl1nmm4378701p4a2d4uqb9/stats?cursusId=9&coalitionId=62)](https://profile.intra.42.fr/users/stakada)
-[![](https://badge42.coday.fr/api/v2/clykl1nmm4378701p4a2d4uqb9/stats?cursusId=21&coalitionId=307)](https://profile.intra.42.fr/users/stakada)
+- 🎓 On break from **Kwansei Gakuin University, School of Policy Studies**
+- 📚 Currently learning at **42Tokyo** (Since April 2024)
+- 🌏 Multilingual: **Japanese, Chinese, Korean**
+
+<details>
+<summary>📜 Certifications</summary>
+
+| Certification | Date |
+|---------------|------|
+| Information Technology Passport Examination (IP) | June 2023 |
+| Information Security Management Examination (SG) | August 2023 |
+| Fundamental Information Technology Engineer Examination (FE) | October 2023 |
+
+</details>
+
+## 42Tokyo Progress
+
+<p align="center">
+  <img src="https://badge42.coday.fr/api/v2/clykl1nmm4378701p4a2d4uqb9/stats?cursusId=9&coalitionId=62" alt="42 Tokyo Piscine Stats" />
+  <img src="https://badge42.coday.fr/api/v2/clykl1nmm4378701p4a2d4uqb9/stats?cursusId=21&coalitionId=307" alt="42 Tokyo Main Curriculum Stats" />
+</p>
+
+## Journey of Continuous Improvement 🚀
+
+<div style="display: flex; justify-content: space-between; align-items: flex-start;">
+  <img src="profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" width="60%" />
+  <div style="width: 50%;">
+    <img src="metrics.plugin.achievements.svg" alt="GitHub Achievements" style="display: block; margin: auto;" />
+  </div>
+</div>
+
+<hr>
+
+<div align="center">
+  <h4>Thanks for visiting my profile! 👋</h4>
+  <a href="https://github.com/gao0325ts?tab=repositories">
+    <img src="https://img.shields.io/badge/Check%20out%20my%20projects-4CAF50?style=for-the-badge&logo=github&logoColor=white" alt="My Projects">
+  </a>
+</div>
 
 <!--
 ## Languages and Tools  
