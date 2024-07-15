@@ -6,5 +6,5 @@
 ![](./metrics.plugin.languages.details.svg)
 ![](./metrics.plugin.achievements.svg)
 
-[![stakada's 42 stats](https://badge42.coday.fr/api/v2/clykl1nmm4378701p4a2d4uqb9/stats?cursusId=9&coalitionId=62)](https://github.com/Coday-meric/badge42)
-[![stakada's 42 stats](https://badge42.coday.fr/api/v2/clykl1nmm4378701p4a2d4uqb9/stats?cursusId=21&coalitionId=307)](https://github.com/Coday-meric/badge42)
+[![stakada's 42 stats](https://badge42.coday.fr/api/v2/clykl1nmm4378701p4a2d4uqb9/stats?cursusId=9&coalitionId=62)](https://profile.intra.42.fr/users/stakada)
+[![stakada's 42 stats](https://badge42.coday.fr/api/v2/clykl1nmm4378701p4a2d4uqb9/stats?cursusId=21&coalitionId=307)](https://profile.intra.42.fr/users/stakada)
