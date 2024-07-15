@@ -1,7 +1,5 @@
 ![](https://readme-typing-svg.demolab.com?font=Lexend&size=40&pause=1000&color=07817A&vCenter=true&random=false&width=435&lines=Now+Loading+.+.+.)
 
-![](profile-3d-contrib/profile-night-rainbow.svg)
-
 [![](https://streak-stats.demolab.com?user=gao0325ts&theme=iceberg)](https://git.io/streak-stats)
 
 ![](metrics.plugin.languages.details.svg)
