@@ -30,12 +30,8 @@
 
 ## Journey of Continuous Improvement 🚀
 
-<div style="display: flex; justify-content: space-between; align-items: flex-start;">
-  <img src="profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" width="60%" />
-  <div style="width: 50%;">
-    <img src="metrics.plugin.achievements.svg" alt="GitHub Achievements" style="display: block; margin: auto;" />
-  </div>
-</div>
+![](profile-3d-contrib/profile-night-rainbow.svg)
+![](metrics.plugin.achievements.svg)
 
 <hr>
 
