@@ -1,8 +1,10 @@
-<!-- <h1 align="center">Hi there! 👋 I'm Shorei Takada</h1> -->
+<h1>Hi there! 👋 I'm Shorei Takada</h1>
 
+<!--
 <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Lexend&size=40&duration=2000&pause=1000&color=09AEA5&center=true&vCenter=true&multiline=true&random=false&width=430&height=142&lines=Hi+there!;I'm+Shorei+Takada." alt="Typing SVG" /></a>
 </div>
+-->
 
 ## About Me
 
