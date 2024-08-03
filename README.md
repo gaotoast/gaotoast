@@ -1,4 +1,4 @@
-<h1>Hi there! 👋 I'm Shorei Takada</h1>
+<h1>Hi there!👋 I'm Shorei Takada</h1>
 
 <!--
 <div align="center">
