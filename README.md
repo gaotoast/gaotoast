@@ -1,6 +1,6 @@
 <h1>Hi there!👋 I'm Shorei Takada</h1>
 
-![](./metrics.plugin.languages.details.svg)
+<!-- ![](./metrics.plugin.languages.details.svg) -->
 
 ## About Me
 
