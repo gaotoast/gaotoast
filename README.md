@@ -1,6 +1,4 @@
-<h1>Hi there!👋 I'm Shorei Takada</h1>
-
-<!-- ![](./metrics.plugin.languages.details.svg) -->
+# Hi there!👋 I'm Shorei Takada
 
 ## About Me
 
@@ -18,6 +16,8 @@
 | Fundamental Information Technology Engineer Examination (FE) | October 2023 |
 
 </details>
+
+![](./metrics.plugin.languages.details.svg)
 
 <!-- ## 42Tokyo Progress
 
