@@ -2,9 +2,10 @@
 
 ## About Me
 
-- 🎓 On break from **Kwansei Gakuin University, School of Policy Studies**
-- 📚 Currently learning at **42Tokyo** (Since April 2024)
-- 🌏 Multilingual: **Japanese, Chinese, Korean**
+- 🎓 On leave from **Kwansei Gakuin University, School of Policy Studies**
+- 📚 Studying at **42Tokyo** (since Apr 2024)
+- 👩‍💻 Member of **CA Tech Lounge** (since May 2025)
+- 🌏 Speak **Japanese, Chinese, Korean**
 
 <details>
 <summary>📜 Certifications</summary>
