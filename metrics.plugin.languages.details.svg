@@ -21,14 +21,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="332.01370021199597" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="332.01370021199597" y="0" width="64.73931904194382" height="8" fill="#701516"/>
-                    <rect mask="url(#languages-bar)" x="396.7530192539398" y="0" width="18.372097583507454" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="415.1251168374472" y="0" width="12.404247762930556" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="427.52936460037773" y="0" width="11.17750358955141" height="8" fill="#663399"/>
-                    <rect mask="url(#languages-bar)" x="438.7068681899292" y="0" width="9.144455749927555" height="8" fill="#438eff"/>
-                    <rect mask="url(#languages-bar)" x="447.85132393985674" y="0" width="6.506805440866634" height="8" fill="#427819"/>
-                    <rect mask="url(#languages-bar)" x="454.35812938072337" y="0" width="5.641870619276599" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="329.7377196038421" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="329.7377196038421" y="0" width="64.29552580500672" height="8" fill="#701516"/>
+                    <rect mask="url(#languages-bar)" x="394.0332454088488" y="0" width="18.24615537749465" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="412.27940078634344" y="0" width="12.319215647240332" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="424.5986164335838" y="0" width="11.100880903797343" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="435.6994973373811" y="0" width="9.081769770566865" height="8" fill="#438eff"/>
+                    <rect mask="url(#languages-bar)" x="444.78126710794794" y="0" width="8.756532125615886" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="453.5377992335639" y="0" width="6.462200766436072" height="8" fill="#427819"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -41,7 +41,7 @@
                             </div>
                             <small>
                                 <div>1.33 MB</div>
-                                <div>72.18%</div>
+                                <div>71.68%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -53,7 +53,7 @@
                             </div>
                             <small>
                                 <div>73.3 kB</div>
-                                <div>3.99%</div>
+                                <div>3.97%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -65,19 +65,19 @@
                             </div>
                             <small>
                                 <div>44.6 kB</div>
-                                <div>2.43%</div>
+                                <div>2.41%</div>
                             </small>
                         </div>
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#427819" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                    <path fill="#3178c6" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
-                                Makefile
+                                TypeScript
                             </div>
                             <small>
-                                <div>25.9 kB</div>
-                                <div>1.41%</div>
+                                <div>35.1 kB</div>
+                                <div>1.9%</div>
                             </small>
                         </div>
                     </section>
@@ -91,7 +91,7 @@
                             </div>
                             <small>
                                 <div>258 kB</div>
-                                <div>14.07%</div>
+                                <div>13.98%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -103,7 +103,7 @@
                             </div>
                             <small>
                                 <div>49.5 kB</div>
-                                <div>2.7%</div>
+                                <div>2.68%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -115,19 +115,19 @@
                             </div>
                             <small>
                                 <div>36.5 kB</div>
-                                <div>1.99%</div>
+                                <div>1.97%</div>
                             </small>
                         </div>
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#f34b7d" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                    <path fill="#427819" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
-                                C++
+                                Makefile
                             </div>
                             <small>
-                                <div>22.5 kB</div>
-                                <div>1.23%</div>
+                                <div>25.9 kB</div>
+                                <div>1.4%</div>
                             </small>
                         </div>
                     </section>
