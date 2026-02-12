@@ -14,5 +14,3 @@
 | Information Security Management Examination (SG) | August 2023 |
 | Fundamental Information Technology Engineer Examination (FE) | October 2023 |
 </details>
-
-![](./metrics.plugin.languages.details.svg)
